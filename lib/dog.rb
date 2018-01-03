@@ -14,3 +14,5 @@ class Dog
       puts "woof!"
     end
   end
+
+fido = Dog.bark
